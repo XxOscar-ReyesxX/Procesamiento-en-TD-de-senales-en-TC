@@ -1,4 +1,4 @@
-# Procesamiento-en-TD-de-se-ales-en-TC
+# Procesamiento-en-TD-de-senales-en-TC
 
 ![Logo UCuenca](logo_ucuenca.png)
 
